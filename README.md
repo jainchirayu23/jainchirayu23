@@ -12,8 +12,8 @@ I look forward to both learning from and contributing to the community. I specia
 ### :man_technologist: Current Status
 
 - 💻 **MSc Data Science** student @ **Berliner Hochschule für Technik (BHT)**.
-- 💡 **Software Engineer** with nearly **2+ years of corporate experience** in backend development and data engineering.
-- 🔭 Currently seeking **Working Student opportunities** in Software Engineering where I can contribute to impactful, data-driven projects.
+- 💡 **Software Engineer** with nearly **3+ years of corporate experience** in backend development and data engineering.
+- 🔭 Currently seeking **Working Student opportunities** where I can contribute to impactful, data-driven and full stack projects.
 - 💞️ Open to collaborative projects leveraging my expertise in Java, Spring Boot, and Python.
 
 ---
