@@ -70,7 +70,7 @@ I look forward to both learning from and contributing to the community. I specia
 * **What it is:** An end-to-end web application built to visualize geospatial EV charging infrastructure across Berlin.
 * **Tech Stack:** Python, Streamlit, Pandas, GeoPandas, Folium.
 
-### 📊 EPS - Data Migration & Reporting
+### 🎙️ [AI Voice Assistant](https://github.com/jainchirayu23/ds-whisper-voice-assistant)
 * **What it is:** Enterprise data extraction tool leveraging complex PL/SQL scripts to meet strict validation rules for financial reporting.
 
 ---
