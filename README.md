@@ -1,161 +1,140 @@
-<h1 align="center">Hi fellow Devs, I'm Chirayu Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/jainchirayu23">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MSc+Data+Science+Student;Java+%26+Python+Developer;Always+Building+%26+Learning&center=true&width=500&height=50" alt="Typing SVG">
-  </a>
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chirayu%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20MSc%20Data%20Science%20%40%20BHT%20Berlin&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-**Welcome to my GitHub profile!** :wave:
-I look forward to both learning from and contributing to the community. I specialize in bridging the gap between robust software architecture and advanced data analytics.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=3%2B+Years+Backend+%26+Data+Engineering;Java+%7C+Spring+Boot+%7C+Python+%7C+SQL;Building+data-driven+full-stack+systems;Open+to+Working+Student+roles+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://github.com/jainchirayu23)
 
-### :man_technologist: Current Status
-
-- 💻 **MSc Data Science** student @ **Berliner Hochschule für Technik (BHT)**.
-- 💡 **Software Engineer** with nearly **3+ years of corporate experience** in backend development and data engineering.
-- 🔭 Currently seeking **Working Student opportunities** where I can contribute to impactful, data-driven and full stack projects.
-- 💞️ Open to collaborative projects leveraging my expertise in Java, Spring Boot, and Python.
+</div>
 
 ---
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Tech Stack & Tools
+## 👨‍💻 About Me
 
-#### :shipit: Backend & Architecture
-[![Java][java-shield]][java-url]
-[![Spring Boot][spring-shield]][spring-url]
-[![Hibernate][hibernate-shield]][hibernate-url]
-[![Python][python-shield]][python-url]
-[![REST APIs][rest-shield]][rest-url]
-
-#### :desktop_computer: Frontend
-[![JavaScript][javascript-shield]][javascript-url]
-[![React][react-shield]][react-url]
-[![HTML5][html5-shield]][html5-url]
-[![CSS3][css3-shield]][css3-url]
-
-#### :floppy_disk: Databases & Cloud
-[![MySQL][mysql-shield]][mysql-url]
-[![PostgreSQL][postgres-shield]][postgres-url]
-[![Oracle][oracle-shield]][oracle-url]
-[![AWS][aws-shield]][aws-url]
-[![GCP][gcp-shield]][gcp-url]
-
-#### :chart_with_upwards_trend: Data Engineering & ML
-[![Pandas][pandas-shield]][pandas-url]
-[![SQL][sql-shield]][sql-url]
-[![Streamlit][streamlit-shield]][streamlit-url]
-
-#### :arrows_counterclockwise: DevOps & Tools
-[![Docker][docker-shield]][docker-url]
-[![Git][git-shield]][git-url]
-[![Maven][maven-shield]][maven-url]
+```yaml
+name:       Chirayu Jain
+location:   Berlin, Germany 🇩🇪
+education:  MSc Data Science @ Berliner Hochschule für Technik (BHT)
+experience: 3+ years — Backend & Data Engineering (Java · Spring Boot · Python)
+status:     Actively seeking Working Student roles in Berlin (Data / Full Stack)
+passion:
+  - Distributed systems & microservices architecture
+  - Data pipelines, ML engineering, and geospatial analytics
+  - Voice AI, NLP, and conversational interfaces
+contact:    jain.chirayu2304@gmail.com
+```
 
 ---
 
-## <img src="https://media.giphy.com/media/bNDhSAxHH9CEEapceZ/giphy.gif" width="40"> Professional Experience
+## 🛠️ Tech Stack
 
-**🏢 Software Engineer | Prisio Technologies** *(Feb 2023 - Oct 2025)*
-* Engineered and optimized 100+ critical backend modules for a major Oracle R12 migration.
-* Developed automated unit testing and validation frameworks using complex SQL, ensuring 99.8% data integrity during large-scale system transitions.
+#### 🔧 Backend & Architecture
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=json&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**🏢 Full Stack Java Developer | iNeuron** *(Oct 2022 - Feb 2023)*
-* Architected RESTful microservices using Spring Boot and Hibernate, implementing Spring Security for robust authentication.
-* Containerized applications utilizing Docker to ensure consistent deployment environments.
+#### 🖥️ Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 💾 Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### 📈 Data Engineering & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C74?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## :pushpin: Featured Projects
+## 💼 Professional Experience
 
-### 🌍 [Crowd Community ChargeHub Berlin](https://github.com/jainchirayu23)
-* **What it is:** An end-to-end web application built to visualize geospatial EV charging infrastructure across Berlin.
-* **Tech Stack:** Python, Streamlit, Pandas, GeoPandas, Folium.
+### 🏢 Software Engineer — Prisio Technologies *(Feb 2023 – Oct 2025)*
+- Engineered and optimized **100+ critical backend modules** for a major **Oracle R12 ERP migration** serving enterprise clients
+- Built automated **SQL-based validation frameworks** that maintained **99.8% data integrity** during large-scale system transitions
+- Delivered cross-functional feature work under strict enterprise SLAs ensuring zero-downtime migrations
+
+### 🏢 Full Stack Java Developer — iNeuron *(Oct 2022 – Feb 2023)*
+- Architected **RESTful microservices** with Spring Boot + Hibernate, implementing Spring Security for auth
+- **Containerized applications with Docker** to standardize dev → staging → prod environments
+- Contributed across the full stack: Java backend + React/JS frontend feature delivery
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 [Crowd Community ChargeHub Berlin](https://github.com/jainchirayu23/crowd-community-chargehub-berlin)
+> Geospatial EV Charging Infrastructure Visualizer
+
+An end-to-end web app mapping Berlin's EV charging infrastructure using open geospatial datasets. Supports urban mobility research with interactive layered maps and spatial data joins.
+
+**Tech:** `Python` · `Streamlit` · `GeoPandas` · `Folium` · `Pandas`
+
+---
 
 ### 🎙️ [AI Voice Assistant](https://github.com/jainchirayu23/ds-whisper-voice-assistant)
-* **What it is:** This project demonstrates an end-to-end conversational AI pipeline built entirely in Python. It features a modern web interface built with Streamlit and uses a trained Neural Network (MLPClassifier).
----
+> Offline NLP-powered Voice Interface with ML Intent Classification
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+Live audio → **OpenAI Whisper** (offline STT) → **MLP neural network** intent classifier (TF-IDF + scikit-learn, trained on Alexa dataset) → synthesized speech via pyttsx3. Zero cloud dependency. Fully local via Streamlit.
 
-<div align="center">
-
-  ![Github streak][github-streak]
-  <br><br>
-  ![Activity Graph][github-activity-graph]
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainchirayu23&show_icons=true&theme=radical" alt="Chirayu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainchirayu23&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</div>
+**Tech:** `Python` · `OpenAI Whisper` · `scikit-learn` · `Streamlit` · `sounddevice` · `pyttsx3`
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
-
-Feel free to reach out, I'm always happy to connect with fellow developers!
-
-[![Linkedin][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
-[![Github][github-profile-shield]][github-profile-url]
-
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jainchirayu23&style=flat-square&color=blue&label=Profile+Views" alt="Visitor Count" />
-  <br><br>
-  <a href="https://github.com/jainchirayu23">![Built with love][built-with-love-badge]</a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jainchirayu23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainchirayu23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-[java-shield]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-[spring-shield]: https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white
-[hibernate-shield]: https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
-[python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[rest-shield]: https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=json&logoColor=white
-[javascript-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[html5-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[css3-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[mysql-shield]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[postgres-shield]: https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[oracle-shield]: https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
-[aws-shield]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[gcp-shield]: https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
-[pandas-shield]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-[sql-shield]: https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white
-[streamlit-shield]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
-[docker-shield]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[maven-shield]: https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
+<div align="center">
 
-[linkedin-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Chirayu%20Jain&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=
-[gmail-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Chirayu%20Jain&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=
-[github-profile-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Chirayu%20Jain&color=181717&logo=GitHub&logoColor=FFFFFF&label=
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jainchirayu23&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[github-streak]: https://streak-stats.demolab.com/?user=jainchirayu23&theme=radical
-[github-activity-graph]: https://github-readme-activity-graph.vercel.app/graph?username=jainchirayu23&theme=react-dark
-[built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
+</div>
 
-[java-url]: https://www.java.com/
-[spring-url]: https://spring.io/projects/spring-boot
-[hibernate-url]: https://hibernate.org/
-[python-url]: https://www.python.org/
-[rest-url]: https://restfulapi.net/
-[javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react-url]: https://reactjs.org/
-[html5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
-[css3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[mysql-url]: https://www.mysql.com/
-[postgres-url]: https://www.postgresql.org/
-[oracle-url]: https://www.oracle.com/database/
-[aws-url]: https://aws.amazon.com/
-[gcp-url]: https://cloud.google.com/
-[pandas-url]: https://pandas.pydata.org/
-[sql-url]: https://en.wikipedia.org/wiki/SQL
-[streamlit-url]: https://streamlit.io/
-[docker-url]: https://www.docker.com/
-[git-url]: https://git-scm.com/
-[maven-url]: https://maven.apache.org/
-[linkedin-url]: https://www.linkedin.com/in/11-chirayujain/
-[gmail-url]: mailto:jain.chirayu2304@gmail.com
-[github-profile-url]: https://github.com/jainchirayu23
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirayu_Jain-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/11-chirayujain/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-jain.chirayu2304-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:jain.chirayu2304@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-jainchirayu23-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/jainchirayu23)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Always building. Always learning."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jainchirayu23&style=flat-square&color=38BDF8&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
