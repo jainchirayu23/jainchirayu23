@@ -71,8 +71,7 @@ I look forward to both learning from and contributing to the community. I specia
 * **Tech Stack:** Python, Streamlit, Pandas, GeoPandas, Folium.
 
 ### 🎙️ [AI Voice Assistant](https://github.com/jainchirayu23/ds-whisper-voice-assistant)
-* **What it is:** Enterprise data extraction tool leveraging complex PL/SQL scripts to meet strict validation rules for financial reporting.
-
+* **What it is:** This project demonstrates an end-to-end conversational AI pipeline built entirely in Python. It features a modern web interface built with Streamlit and uses a trained Neural Network (MLPClassifier).
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
