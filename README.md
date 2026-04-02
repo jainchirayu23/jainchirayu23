@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 ```yaml
 name:       Chirayu Jain
